@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class ex7 {
+    //Ahmed Ali 4/11/2023 RTT-57
     public static void main(String[] args) {
         String status;
         int income;
